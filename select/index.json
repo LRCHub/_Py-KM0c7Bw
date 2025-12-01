@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "base_track": "dice",
+  "base_artist": "Awkmiu",
+  "createdAt": "2025-12-01T06:18:34.653882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Adrenaline (Feat. Dice Raw & Beanie Sigel)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/01_Adrenaline_(Feat._Dice_Raw_&_Beanie_Sigel)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Diedre Vs. Dice",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/02_Diedre_Vs._Dice_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Diedre vs. Dice",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/03_Diedre_vs._Dice_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Here I Come (Feat. Dice Raw of Nouveau Riche & Malik B.)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/04_Here_I_Come_(Feat._Dice_Raw_of_Nouveau_Riche_&_Malik_B.)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "How I Got Over (Feat. Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/05_How_I_Got_Over_(Feat._Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Lighthouse (Feat. Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/06_Lighthouse_(Feat._Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Make My (Feat. Big K.R.I.T. & Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/07_Make_My_(Feat._Big_K.R.I.T._&_Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Now Or Never (Feat. Phonte & Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/08_Now_Or_Never_(Feat._Phonte_&_Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "One Time (Feat. Phonte & Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/09_One_Time_(Feat._Phonte_&_Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Grand Return (Feat. Dice Raw & Wadud Ahmad)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/10_The_Grand_Return_(Feat._Dice_Raw_&_Wadud_Ahmad)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tip The Scale (Feat. Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/11_Tip_The_Scale_(Feat._Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Walk Alone (Feat. Truck North, P.O.R.N. & Dice Raw)",
+      "artist": "The Roots",
+      "has_synced": true,
+      "path": "select/12_Walk_Alone_(Feat._Truck_North,_P.O.R.N._&_Dice_Raw)_The_Roots.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Roll the Dice",
+      "artist": "Lunatic Calm",
+      "has_synced": false,
+      "path": "select/13_Roll_the_Dice_Lunatic_Calm.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Peacebone - Black Dice Remix",
+      "artist": "Animal Collective",
+      "has_synced": false,
+      "path": "select/14_Peacebone_-_Black_Dice_Remix_Animal_Collective.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dirty Dice",
+      "artist": "Katie Melua",
+      "has_synced": true,
+      "path": "select/15_Dirty_Dice_Katie_Melua.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Magnets (Loco Dice Remix)",
+      "artist": "Disclosure feat. Lorde",
+      "has_synced": false,
+      "path": "select/16_Magnets_(Loco_Dice_Remix)_Disclosure_feat._Lorde.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Devil's Dice",
+      "artist": "U.D.O.",
+      "has_synced": false,
+      "path": "select/17_Devil's_Dice_U.D.O..txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Ella Dice",
+      "artist": "TINI feat. KHEA",
+      "has_synced": true,
+      "path": "select/18_Ella_Dice_TINI_feat._KHEA.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Ella dice",
+      "artist": "TINI",
+      "has_synced": true,
+      "path": "select/19_Ella_dice_TINI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DICE",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_01_DICE_hide.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "The dice are cast",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_02_The_dice_are_cast_hide.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "The dice are cast",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_03_The_dice_are_cast_hide.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "The dice are cast",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_04_The_dice_are_cast_hide.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "The dice are cast",
+      "artist": "hide",
+      "has_synced": false,
+      "path": "select/pl_05_The_dice_are_cast_hide.txt"
+    }
+  ]
+}
